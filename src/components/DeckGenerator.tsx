@@ -168,7 +168,6 @@ export default function DeckGenerator({ filmData, theme }: DeckGeneratorProps) {
                     y: 2.1,
                     w: 1.4,
                     h: 0.5,
-                    r: 0.2,
                     fill: { color: "F0F0F0" },
                     line: { color: "CCCCCC" },
                 });
